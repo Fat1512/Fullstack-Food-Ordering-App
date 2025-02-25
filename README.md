@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Food Ordering API</h1>
+<h1 align="center" style="font-weight: bold;">Fullstack Food Ordering App</h1>
 
 <p align="center">
    A Spring Boot-based food ordering API that enables users to browse a diverse selection of restaurants, place orders, and make payments seamlessly. The application integrates with the VNPay payment gateway and supports user registration for restaurant tenancy. 
